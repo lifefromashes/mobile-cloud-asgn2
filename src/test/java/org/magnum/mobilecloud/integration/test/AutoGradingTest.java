@@ -12,10 +12,10 @@ import java.util.Set;
 
 import org.apache.http.HttpStatus;
 import org.junit.Test;
-import org.magnum.mobilecloud.video.TestData;
 import org.magnum.mobilecloud.video.client.SecuredRestBuilder;
 import org.magnum.mobilecloud.video.client.VideoSvcApi;
 import org.magnum.mobilecloud.video.repository.Video;
+import org.magnum.mobilecloud.video.tests.TestData;
 
 import io.magnum.autograder.junit.Rubric;
 import retrofit.ErrorHandler;
